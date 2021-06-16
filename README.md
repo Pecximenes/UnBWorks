@@ -1,4 +1,4 @@
-# Repositório Trabalhos UnB
+# Repositório Trabalhos da UnB
 
 ![Logo da UnB](./UnBlogo.png)
 
